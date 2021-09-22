@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logitechmovil",
+  "private_key_id": "e2a4a46e4ba8107788e69c6ead4a5f2a29263620",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDR22CsUQMTiC7x\nsAGnz08QG7ztVuSK/Ouvt88A9qtRhrCLFxEjhv7Jao7MvSzdrGK52r7D+ZNkrsRd\nFzFzjilCUJOVYA76PbT0TdCfJWQGMImugY+XUphvkSUT2vZOO8uKnaxEpZsqP3VZ\nHN5nfPTNWQFQORJ7pCu/tIuf6oLnyMya4QYJWiA3NmmfG14eI86VbjANtroiESIC\n1JhqctjDXTdW3ZNiG9wEcK0zg+duYvpGwRlMwUjNSfYk/28bc4/OKXqwm9qKtsDV\nuCuG2YNWNYJvK6Eq0aSN+jJqJ1jSHh6w3YNijBkc4tSNk4/JkaFS1VzPgZo93hWh\nFaolEJEXAgMBAAECggEAGyGqwPyEUk0kDJk9zY1O4n1DksfOKm4Cpqgz+iLqCVNJ\nleH4lEhKvo2pQq0elNZJuU+fpESrGrRBrOtnuFHj4a/7NK/Dn/TEZWV+GGVEJky2\nMDqN7vl9vcbdLVD80SaH7TbvY7ypb+/eYxQJaQXNvJLKSa3nRtb11QYpmxY9sGuY\nn9q+IHqOKjKX9rlMJkSSaA145VOMN1VYgknZ7AqeAZqZVWXrOsi+T0vfjg0Luvzl\nYO/vxp2wQ39ftd2D0SgEkVNq1wZNcul/QfvSesDQSvGXzbSAZy1pnytF7jwPm/gH\nR+SlFDZA4xMY4bBNGP3P0T2CYLfFM0WZQAfrruC4kQKBgQDrGFui+Q//2+OHdodA\nmL3+mSpcDIvhQM31Vl/yBmrYpiTGubnDSds0Lfp6pbQms2sohXcoXi0+gHVJG6Sc\nuFq851vE/W7kQHNQ67peIdcWPr7KKF2avCRtujuuv/4I4MVDmaIkqfdo0TUj9pN9\nqoSEK/yijauFmBMtwYAqTE+qzwKBgQDkhIEJacL93Djs0He/oVqNd2OdSzUiNkQ8\nm3b4VVTFlWwTrUQu0srR1V5VTUmM8XRZTGH/9i2W6J+GHTqAusgpbEmr1j/UzpIM\nQUaxnGHW4Hp5VSWkL/VuSCFXDdYb0sgnvr0MNkJp+oZxkhmjUbEmPpWqNPX1YBDN\n5p5cUlInOQKBgGFQW95CKpVGeBCCx8m9cCgLTrV7nAtJv/dmIaEVdvTnESIRjwt/\nbvVScvSB0uiSLDFBzekv0pqkoef5QVJ+HVFEk4AfR9/Drfg5G5QLffT/VApqWxTJ\n/GpPRJU5c/ZI1F7/IVb75CXHM7AHSVYjV2c+rfy7l9xc7tNp3ZukqvWRAoGAGPEB\naHabqruLlwVV3JuO15vtSnC39uj3X6oUPRyLKRma9zbVF0s4idiA+Ex8N57u9QQq\nOhazeSIgrzGnff9k82h3TgMPanm1ZRMG1UHdR+euVmndtuLpJcVHpknDUbwazoO5\n/Ig7jXejjufEVpgG/sab7Tzkj4iRrPd711XA07kCgYAdMe5orLmERZdand2dMPLq\nelats2i+7E2bBY7zAGFgeu2/gDAEzYZN12lNo1ST85NE9PamJMWkbZQmJVv3x5/I\nufdmgXqreqjlgTRVFVyyqTEFoSnwaJ0O1lVSF3SLY+aC2k0imzLRVeXeOhRtPwS4\nTl98TASoeXJ+XmadsW+GGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba-cargas@logitechmovil.iam.gserviceaccount.com",
+  "client_id": "116038097843234944929",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba-cargas%40logitechmovil.iam.gserviceaccount.com"
+}

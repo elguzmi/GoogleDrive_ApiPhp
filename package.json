@@ -1,0 +1,18 @@
+{
+  "name": "upload_php",
+  "version": "1.0.0",
+  "description": "Porgma utilizando la Api de google para poder subir imagenes a una cuenta de drive desde una app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016https://github.com/elguzmi/GoogleDrive_ApiPhp.git"
+  },
+  "keywords": [
+    "Api"
+  ],
+  "author": "Santiago Guzman",
+  "license": "ISC"
+}
